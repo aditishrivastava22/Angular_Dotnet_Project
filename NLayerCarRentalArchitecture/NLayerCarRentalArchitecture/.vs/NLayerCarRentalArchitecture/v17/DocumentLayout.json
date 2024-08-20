@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentaldal\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|solutionrelative:carrentaldal\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentaldal\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|solutionrelative:carrentaldal\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B835B05D-8BCE-44FB-9FB9-76307378EB46}|NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B835B05D-8BCE-44FB-9FB9-76307378EB46}|NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture.csproj|solutionrelative:nlayercarrentalarchitecture\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentaldal\\migrations\\20240815170959_setting up db connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|solutionrelative:carrentaldal\\migrations\\20240815170959_setting up db connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B835B05D-8BCE-44FB-9FB9-76307378EB46}|NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B835B05D-8BCE-44FB-9FB9-76307378EB46}|NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture.csproj|solutionrelative:nlayercarrentalarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentalbal\\dto\\authenticateduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|solutionrelative:carrentalbal\\dto\\authenticateduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentalbal\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|solutionrelative:carrentalbal\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B835B05D-8BCE-44FB-9FB9-76307378EB46}|NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B835B05D-8BCE-44FB-9FB9-76307378EB46}|NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture.csproj|solutionrelative:nlayercarrentalarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentaldal\\repository\\agreementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|solutionrelative:carrentaldal\\repository\\agreementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentalbal\\services\\agreementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|solutionrelative:carrentalbal\\services\\agreementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B835B05D-8BCE-44FB-9FB9-76307378EB46}|NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\controllers\\agreementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B835B05D-8BCE-44FB-9FB9-76307378EB46}|NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture.csproj|solutionrelative:nlayercarrentalarchitecture\\controllers\\agreementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentalbal\\models\\agreementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|solutionrelative:carrentalbal\\models\\agreementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B835B05D-8BCE-44FB-9FB9-76307378EB46}|NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B835B05D-8BCE-44FB-9FB9-76307378EB46}|NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture.csproj|solutionrelative:nlayercarrentalarchitecture\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentaldal\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|solutionrelative:carrentaldal\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentalbal\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|solutionrelative:carrentalbal\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentaldal\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|solutionrelative:carrentaldal\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentalbal\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|solutionrelative:carrentalbal\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentaldal\\irepository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|solutionrelative:carrentaldal\\irepository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentalbal\\models\\validaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|solutionrelative:carrentalbal\\models\\validaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentaldal\\irepository\\iagreementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|solutionrelative:carrentaldal\\irepository\\iagreementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentalbal\\iservices\\iagreementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|solutionrelative:carrentalbal\\iservices\\iagreementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentaldal\\entities\\rentalagreement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|solutionrelative:carrentaldal\\entities\\rentalagreement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentalbal\\models\\carfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|solutionrelative:carrentalbal\\models\\carfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentalbal\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|solutionrelative:carrentalbal\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentalbal\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|solutionrelative:carrentalbal\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentalbal\\iservices\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|solutionrelative:carrentalbal\\iservices\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentalbal\\carrentalbal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|solutionrelative:carrentalbal\\carrentalbal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B835B05D-8BCE-44FB-9FB9-76307378EB46}|NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B835B05D-8BCE-44FB-9FB9-76307378EB46}|NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture.csproj|solutionrelative:nlayercarrentalarchitecture\\nlayercarrentalarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentaldal\\irepository\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119933DB-831B-4C0F-A118-82862CD7BEA9}|CarRentalDAL\\CarRentalDAL.csproj|solutionrelative:carrentaldal\\irepository\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|e:\\carrentalapplication\\carrentalapplication\\nlayercarrentalarchitecture\\nlayercarrentalarchitecture\\carrentalbal\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673F088D-7D66-48B3-AE36-333DE14B40F7}|CarRentalBAL\\CarRentalBAL.csproj|solutionrelative:carrentalbal\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240815170959_setting up db connection.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\Migrations\\20240815170959_setting up db connection.cs",
+              "RelativeDocumentMoniker": "CarRentalDAL\\Migrations\\20240815170959_setting up db connection.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\Migrations\\20240815170959_setting up db connection.cs",
+              "RelativeToolTip": "CarRentalDAL\\Migrations\\20240815170959_setting up db connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:09:59.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "NLayerCarRentalArchitecture\\Program.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\Program.cs",
+              "RelativeToolTip": "NLayerCarRentalArchitecture\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAQwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Helper\\Helper.cs",
+              "RelativeDocumentMoniker": "CarRentalBAL\\Helper\\Helper.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Helper\\Helper.cs",
+              "RelativeToolTip": "CarRentalBAL\\Helper\\Helper.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AgreementModel.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Models\\AgreementModel.cs",
+              "RelativeDocumentMoniker": "CarRentalBAL\\Models\\AgreementModel.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Models\\AgreementModel.cs",
+              "RelativeToolTip": "CarRentalBAL\\Models\\AgreementModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\appsettings.json",
+              "RelativeDocumentMoniker": "NLayerCarRentalArchitecture\\appsettings.json",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\appsettings.json",
+              "RelativeToolTip": "NLayerCarRentalArchitecture\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T17:01:06.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "NLayerCarRentalArchitecture\\Controllers\\CarController.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\Controllers\\CarController.cs",
+              "RelativeToolTip": "NLayerCarRentalArchitecture\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwCQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\DB\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "CarRentalDAL\\DB\\AppDBContext.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\DB\\AppDBContext.cs",
+              "RelativeToolTip": "CarRentalDAL\\DB\\AppDBContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwGAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "CarRentalDAL\\Entities\\Car.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\Entities\\Car.cs",
+              "RelativeToolTip": "CarRentalDAL\\Entities\\Car.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgreementRepository.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\Repository\\AgreementRepository.cs",
+              "RelativeDocumentMoniker": "CarRentalDAL\\Repository\\AgreementRepository.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\Repository\\AgreementRepository.cs",
+              "RelativeToolTip": "CarRentalDAL\\Repository\\AgreementRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwDQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticatedUserDTO.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\DTO\\AuthenticatedUserDTO.cs",
+              "RelativeDocumentMoniker": "CarRentalBAL\\DTO\\AuthenticatedUserDTO.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\DTO\\AuthenticatedUserDTO.cs",
+              "RelativeToolTip": "CarRentalBAL\\DTO\\AuthenticatedUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AgreementController.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\Controllers\\AgreementController.cs",
+              "RelativeDocumentMoniker": "NLayerCarRentalArchitecture\\Controllers\\AgreementController.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\Controllers\\AgreementController.cs",
+              "RelativeToolTip": "NLayerCarRentalArchitecture\\Controllers\\AgreementController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAADwv5MAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AgreementService.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Services\\AgreementService.cs",
+              "RelativeDocumentMoniker": "CarRentalBAL\\Services\\AgreementService.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Services\\AgreementService.cs",
+              "RelativeToolTip": "CarRentalBAL\\Services\\AgreementService.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAIwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NLayerCarRentalArchitecture\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NLayerCarRentalArchitecture\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwBMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "CarRentalDAL\\Repository\\AuthRepository.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\Repository\\AuthRepository.cs",
+              "RelativeToolTip": "CarRentalDAL\\Repository\\AuthRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwDoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CarRentalBAL\\Services\\AuthService.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Services\\AuthService.cs",
+              "RelativeToolTip": "CarRentalBAL\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\Repository\\CarRepository.cs",
+              "RelativeDocumentMoniker": "CarRentalDAL\\Repository\\CarRepository.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\Repository\\CarRepository.cs",
+              "RelativeToolTip": "CarRentalDAL\\Repository\\CarRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "CarRentalBAL\\Services\\CarService.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Services\\CarService.cs",
+              "RelativeToolTip": "CarRentalBAL\\Services\\CarService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\IRepository\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "CarRentalDAL\\IRepository\\IAuthRepository.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\IRepository\\IAuthRepository.cs",
+              "RelativeToolTip": "CarRentalDAL\\IRepository\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ValidateRequestModel.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Models\\ValidateRequestModel.cs",
+              "RelativeDocumentMoniker": "CarRentalBAL\\Models\\ValidateRequestModel.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Models\\ValidateRequestModel.cs",
+              "RelativeToolTip": "CarRentalBAL\\Models\\ValidateRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAgreementRepository.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\IRepository\\IAgreementRepository.cs",
+              "RelativeDocumentMoniker": "CarRentalDAL\\IRepository\\IAgreementRepository.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\IRepository\\IAgreementRepository.cs",
+              "RelativeToolTip": "CarRentalDAL\\IRepository\\IAgreementRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAgreementService.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\IServices\\IAgreementService.cs",
+              "RelativeDocumentMoniker": "CarRentalBAL\\IServices\\IAgreementService.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\IServices\\IAgreementService.cs",
+              "RelativeToolTip": "CarRentalBAL\\IServices\\IAgreementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RentalAgreement.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\Entities\\RentalAgreement.cs",
+              "RelativeDocumentMoniker": "CarRentalDAL\\Entities\\RentalAgreement.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\Entities\\RentalAgreement.cs",
+              "RelativeToolTip": "CarRentalDAL\\Entities\\RentalAgreement.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CarFilterModel.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Models\\CarFilterModel.cs",
+              "RelativeDocumentMoniker": "CarRentalBAL\\Models\\CarFilterModel.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Models\\CarFilterModel.cs",
+              "RelativeToolTip": "CarRentalBAL\\Models\\CarFilterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Models\\LoginUser.cs",
+              "RelativeDocumentMoniker": "CarRentalBAL\\Models\\LoginUser.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Models\\LoginUser.cs",
+              "RelativeToolTip": "CarRentalBAL\\Models\\LoginUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Models\\CarModel.cs",
+              "RelativeDocumentMoniker": "CarRentalBAL\\Models\\CarModel.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\Models\\CarModel.cs",
+              "RelativeToolTip": "CarRentalBAL\\Models\\CarModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\IServices\\ICarService.cs",
+              "RelativeDocumentMoniker": "CarRentalBAL\\IServices\\ICarService.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\IServices\\ICarService.cs",
+              "RelativeToolTip": "CarRentalBAL\\IServices\\ICarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CarRentalBAL.csproj",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\CarRentalBAL.csproj",
+              "RelativeDocumentMoniker": "CarRentalBAL\\CarRentalBAL.csproj",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\CarRentalBAL.csproj",
+              "RelativeToolTip": "CarRentalBAL\\CarRentalBAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T17:01:06.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NLayerCarRentalArchitecture.csproj",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture.csproj",
+              "RelativeDocumentMoniker": "NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture.csproj",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture.csproj",
+              "RelativeToolTip": "NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T17:01:06.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\IRepository\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "CarRentalDAL\\IRepository\\ICarRepository.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalDAL\\IRepository\\ICarRepository.cs",
+              "RelativeToolTip": "CarRentalDAL\\IRepository\\ICarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\IServices\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CarRentalBAL\\IServices\\IAuthService.cs",
+              "ToolTip": "E:\\CarRentalApplication\\CarRentalApplication\\NLayerCarRentalArchitecture\\NLayerCarRentalArchitecture\\CarRentalBAL\\IServices\\IAuthService.cs",
+              "RelativeToolTip": "CarRentalBAL\\IServices\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:01:06.746Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
